@@ -5,7 +5,7 @@ using namespace std;
 
 int main()  {
 
-    int a=27;
+    int a=2;
 
     count<<"Learning git and github";
     count<<"Basic of git and github";
@@ -14,7 +14,7 @@ int main()  {
     //This is our first version.
     //This is our second version.
     //This is our third version.
-    //change in github compiler
-    //ek aur comment.
+    //local file made.
+    // hello
     return0;
 }
