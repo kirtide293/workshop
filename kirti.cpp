@@ -5,7 +5,7 @@ using namespace std;
 
 int main()  {
 
-    int a=27;
+    int a=2;
 
     count<<"Learning git and github";
     count<<"Basic of git and github";
