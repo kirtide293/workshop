@@ -7,8 +7,9 @@ int main()  {
 
     int a=2;
 
-    count<<"Learning git and github";
-    count<<"Basic of git and github";
+    cout<<"Learning git and github";
+    cout<<"Basic of git and github";
+    cout<<"want to learn full Git";
     count<<a;
 
     //This is our first version.
